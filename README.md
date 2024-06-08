@@ -15,12 +15,12 @@ We use the internet-facing bastion host to protect our internal resources. The i
 
 This trust model and layered protection have been effective, but given the increased frequency of attacks, especially since the pandemic, we need to reconsider our approach. There has been a 500% increase in attacks on internet-facing devices (Petrosyan, 2023).
 
-## Architecture Before Hardening / Security Controls
+## Architecture Before Hardening 
 
 ![Before](https://github.com/audreclemons/AWS-VPC-Bastion/assets/171464782/7982a3fb-0b4e-4583-8b32-1639e9ed9216)
 
 
-## Architecture After Hardening / Security Controls
+## Architecture After Hardening 
 ![After](https://github.com/audreclemons/AWS-VPC-Bastion/assets/171464782/9b6df1ad-287a-4307-8866-b1b4b78c8f28)
 
 
